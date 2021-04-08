@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <color name="colorPrimary">#FF5A5A</color>
+    <color name="colorPrimaryDark">#FF5A5A</color>
+    <color name="colorAccent">#FF5A5A</color>
+
+    <!--LIGHT THEME-->
+
+    // Custom Chip Style
+
+    <color name="bottomNavBackground">@color/white</color>
+    <color name="bottomNavItemColor">@color/darker</color>
+    <color name="bottomNavCheckedItemColor">@color/darkPink</color>
+
+    // color fix
+    <color name="lightMediumGray">#80D1D1D1</color>
+    <color name="lightGray">#F9F9F9</color>
+    <color name="lightGray15">#15F9F9F9</color>
+    <color name="white">#FFFFFF</color>
+    <color name="darker">#424242</color>
+    <color name="darkPink15">#FFE6E6</color>
+    <color name="darker15">#F2F2F2</color>
+    <color name="darkPink">#FF5A5A</color>
+    <color name="yellow">#FF8F00</color>
+    <color name="green">#00C853</color>
+    <color name="lightPink">#FFB9B9</color>
+    <color name="black">#000000</color>
+    <color name="darkBlue">#313C44</color>
+
+    // Custom Shimmer Effect
+    <color name="placeHolderColor">@color/lightPink</color>
+
+    // Custom Fragment
+    <color name="backgroundColor">@color/white</color>
+
+    // Custom Status Bar
+    <color name="statusBarColor">@color/darkPink</color>
+    <color name="actionBarBackgroundColor">@color/darkPink</color>
+
+    // Custom Action Bar
+    <color name="contextualActionBarColor">@color/black</color>
+    <color name="contextualStatusBarColor">@color/black</color>
+
+    // Custom Chip Style
+    <color name="checkedChipBackgroundColor">@color/darkPink15</color>
+    <color name="chipBackgroundColor">@color/darker15</color>
+    <color name="checkedChipTextColor">@color/darkPink</color>
+    <color name="chipTextColor">@color/darker</color>
+
+    // Custom CardView Style
+    <color name="strokeLightColor">@color/darkPink</color>
+    <color name="strokeColor">@color/lightMediumGray</color>
+    <color name="cardBackgroundColor">@color/white</color>
+    <color name="cardBackgroundLightColor">@color/white</color>
+    <color name="titleColor">@color/darker</color>
+    <color name="descriptionColor">@color/darker</color>
+    <color name="itemColor">@color/darker</color>
+
+</resources>
