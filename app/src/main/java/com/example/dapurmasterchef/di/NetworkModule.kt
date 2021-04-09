@@ -1,7 +1,7 @@
 package com.example.dapurmasterchef.di
 
-import com.example.dapurmasterchef.util.Constants.Companion.BASE_URL
 import com.example.dapurmasterchef.data.network.FoodRecipesApi
+import com.example.dapurmasterchef.util.Constants.Companion.BASE_URL
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn
