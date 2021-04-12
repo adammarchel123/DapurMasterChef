@@ -33,7 +33,7 @@
     <color name="lightGray15">#15F9F9F9</color>
 
     // Custom Shimmer Effect
-    <color name="placeHolderColor">@color/darker</color>
+    <color name="placeHolderColor">@color/lightPink</color>
 
     // Custom Fragment
     <color name="backgroundColor">@color/darkBlue</color>
